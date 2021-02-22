@@ -4,8 +4,6 @@ import './index.css';
 import App from './App';
 import ModeContext from './context'
 
-// const [set, setContext] = createContext()
-
 ReactDOM.render(
   <React.StrictMode>
     <ModeContext>
